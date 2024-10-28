@@ -15,3 +15,6 @@ Design Notes
 - EXCLUDE single item recipies
 - Need way of tossing objects into the void (or like a creative mode delete)
 - Specify colorblind friendly mode
+
+Additions: 
+- could have a easy/medium/hard mode which just increases the number of available ingredients
